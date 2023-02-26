@@ -1,4 +1,5 @@
-#Real Estate Price Prediction Website
+# Real Estate Price Prediction 
+
 ● Preprocessed and cleaned data using Pandas and NumPy
 
 ● Utilized scikit-learn and linear regression to train a machine learning model on a real estate dataset
