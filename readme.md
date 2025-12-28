@@ -18,5 +18,6 @@ Skills:
 
 ● Effective communication skills to present findings 
 
+<img width="1862" height="915" alt="BHP_website" src="https://github.com/user-attachments/assets/d816b011-fd2c-492f-bf28-483262a2113f" />
 
 
